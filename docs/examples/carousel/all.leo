@@ -9,8 +9,8 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="544.20161030194733.2"><vh>@edit index.html</vh></v>
 <v t="544.20161031123310.1"><vh>@edit design_corner.html</vh></v>
+<v t="544.20161030194733.2"><vh>@edit index.html</vh></v>
 <v t="544.20161031103730.1"><vh>@edit goal.html</vh></v>
 <v t="544.20161030194858.1"><vh>@edit teachers.html</vh></v>
 <v t="544.20161030211703.1"><vh>@edit list.html</vh></v>
